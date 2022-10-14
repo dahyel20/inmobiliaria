@@ -1,0 +1,17 @@
+
+.formulario
+{
+    width: 400px;
+    left: calc(50% - 180.5px);  
+}
+
+.informacion-imagen
+{
+
+    height: 100px;
+    min-height: 400px;
+    min-width: 200px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
