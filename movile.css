@@ -377,10 +377,14 @@ footer{
     position: absolute;
     width: 100%;
     padding: 50px 0px;
-    background: url(/logos-img/footer\ \(2\).jpg);
+    background: url(./images/footer\ \(2\).jpg);
     background-size: cover;
+    animation-duration: 10s;
+    animation-name: footer-mv;
+    animation-iteration-count: infinite;
    
 }
+
 
 .container__footer{
     display: flex;
